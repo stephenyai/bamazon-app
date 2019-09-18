@@ -1,7 +1,7 @@
 # bamazon-app
 Using node.js and MySQL to build an Amazon-like storefront 
 
-##Bamazon Customer Portal
+## Bamazon Customer Portal
 
 The Bamazon Customer Portal allows users to see items available for purchase. Customer will input an item ID # along with the amount they would like to purchase. 
 
